@@ -5,4 +5,4 @@ Programa em python que baixa vídeos do Youtube por link no programa ou lendo um
 
 #Usa a biblioteca tkinter para criar a interface gráfica ($ pip install tk)
 
-#Usa a biblioteca ffmpeg para converter o áudio para MP3, não esquecer de adiconar ao path do sistema
+#Usa a biblioteca ffmpeg para converter o web áudio para MP3, não esquecer de adiconar ao path do sistema
